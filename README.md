@@ -3,6 +3,11 @@
 </p>
 
 # Designing Cooperative Experiences Through Behavioral Research
+![Published Research](https://img.shields.io/badge/Published-Research-blue)
+
+![Mixed Methods](https://img.shields.io/badge/Method-Mixed%20Methods-green)
+
+![UX Research](https://img.shields.io/badge/Focus-Behavioral%20Research-purple)
 
 > **Using mixed-methods research to understand how game design influences teamwork, communication, and player behavior.**
 
@@ -180,19 +185,22 @@ Those lessons continue to influence how I approach product research today. Wheth
 
 ---
 
-# Skills Demonstrated
+---
 
-- Behavioral Observation
-- Behavioral Research
-- Data Visualization
-- Experimental Design
-- Literature Review
-- Mixed-Methods Research
-- Product Thinking
-- Qualitative Analysis
-- Quantitative Analysis
-- Research Communication
-- Research Synthesis
-- Survey Design
-- Tableau
-- UX Research
+## Related Links
+
+📄 Original Publication
+
+https://doi.org/10.31235/osf.io/wdy9h_v1
+
+🎮 Gambit's Gauntlet
+
+https://shantanusgames.itch.io/gambits-gauntlet
+
+🌐 Portfolio
+
+https://shantanugupta.framer.ai
+
+💼 LinkedIn
+
+https://linkedin.com/in/shantanugupta99
