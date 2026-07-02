@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Behavioral Research Case Study" width="100%">
+</p>
+
 # Designing Cooperative Experiences Through Behavioral Research
 
 > **Using mixed-methods research to understand how game design influences teamwork, communication, and player behavior.**
